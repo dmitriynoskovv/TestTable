@@ -1,0 +1,7 @@
+{
+  "name": "TestTable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@dmitriynoskovv:dmitriynoskovv/TestTable.git",
+  "license": "MIT"
+}

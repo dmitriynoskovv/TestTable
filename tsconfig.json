@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./src",
+    "jsx": "react-jsx"
+  },
+  "include": ["src"],
+  "exclude": ["build", "node_modules"]
+}
